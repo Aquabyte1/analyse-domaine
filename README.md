@@ -46,7 +46,7 @@ Tp1 - diffusion
 - Types d'entreprises : Entreprises de jeux vidéos
 - Exemple d'entreprise : Ubisoft
 
-![Ubisoft](Ubisoft_logo.svg)
+![Ubisoft](Ubisoft_logo.svg.webp)
 
 (source de l'image : Wikipédia)
 
